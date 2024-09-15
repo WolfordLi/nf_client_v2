@@ -1,0 +1,8 @@
+netflix yes
+primevideo yes
+gpt yes
+bahamut yes
+hami_video yes
+hulu working
+disney working
+
